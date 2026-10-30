@@ -182,18 +182,13 @@ I enjoy building systems that combine mathematical models, machine learning, rea
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kslikith22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kslikith22&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=kslikith22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kslikith22&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=kslikith22&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=kslikith22&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kslikith22&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
 ---
 
 # 🏆 LET'S CONNECT
